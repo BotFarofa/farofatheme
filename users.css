@@ -52,7 +52,7 @@
     border-radius: 0;
     
 }
-[data-cid^="4705414-"] .badge-box .bdg.s {
+[data-cid^="4705414-"] .bdg.s {
     background-image: url("http://i.imgur.com/YYvfXPB.gif") !important;
 }
 #chat-messages .fromID-4705414 .badge-box i,
