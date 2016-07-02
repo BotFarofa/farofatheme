@@ -1,5 +1,8 @@
-#chat-messages .fromID-4249648 .badge-box i .bdg e,
-#chat-messages  .id-4249648 .badge-box i .bdg e {
+[data-cid^="4249648-"] .bdg e {
+    background-image: url("http://i.imgur.com/YYvfXPB.gif") !important;
+}
+#chat-messages .fromID-4249648 .badge-box i,
+#chat-messages  .id-4249648 .badge-box i {
     background-image: url(http://i.imgur.com/YYvfXPB.gif);
     background-size: cover;
     width: 30px;
