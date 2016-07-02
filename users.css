@@ -1,4 +1,4 @@
-[data-cid^="4249648-"] #chat-header .badge-box .id-4249648 {
+[data-cid^="4249648-"] #user-rollover.id-4249648 .username .info .badge-box {
     background-image: url("http://i.imgur.com/1Dwfo9m.gif") !important;
 }
 #chat-messages .fromID-4249648 .badge-box i,
