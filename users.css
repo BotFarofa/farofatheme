@@ -1,5 +1,5 @@
-[data-cid^="4249648-"] .from .info .role .icon-chat-manager, #user-lists .list.room .id-4249648 .icon-chat-manager  {
-    background-image: url("http://i.imgur.com/1Dwfo9m.gif") !important;
+[data-cid^="4249648-"] .info .from .role .icon-chat-manager, #user-lists .list.room .id-4249648 .icon-chat-manager  {
+    background-image: url("https://cdn.radiant.dj/rcs/icons/radiant/admin.png") !important;
 }
 #chat-messages .fromID-4249648 .badge-box i,
 #chat-messages  .id-4249648 .badge-box i {
