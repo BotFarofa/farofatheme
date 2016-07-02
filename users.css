@@ -1,5 +1,5 @@
-[data-cid^="4705414-"] .badge-box .bdg.e {
-    background-image: url("http://i.imgur.com/YYvfXPB.gif") !important;
+[data-cid^="4249648-"] #user-rollover .badge-box .id-4249648 {
+    background-image: url("http://i.imgur.com/1Dwfo9m.gif") !important;
 }
 #chat-messages .fromID-4249648 .badge-box i,
 #chat-messages  .id-4249648 .badge-box i {
@@ -52,8 +52,8 @@
     border-radius: 0;
     
 }
-#chat-messages .fromID-4705414 .badge-box i .bdg.s,
-#chat-messages  .id-4705414 .badge-box i .bdg.s {
+#chat-messages .fromID-4705414 .badge-box i,
+#chat-messages  .id-4705414 .badge-box i {
     background-image: url(https://66.media.tumblr.com/8bcfa239d8f3e76f8c002ea4f0ef4d75/tumblr_o8kua3f98v1vnawndo1_500.gif);
     background-size: cover;
     width: 30px;
