@@ -1,4 +1,4 @@
-[data-cid^="4249648-"] .info .badge-box .bdg {
+[data-cid^="4249648-"] .from .role .icon-chat-manager, #user-lists .list.room .id-4249648 .icon-chat-manager  {
     background-image: url("http://i.imgur.com/1Dwfo9m.gif") !important;
 }
 #chat-messages .fromID-4249648 .badge-box i,
