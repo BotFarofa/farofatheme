@@ -289,14 +289,14 @@ body {
     background-size: 100% auto !important background-attachment: fixed 0px 0px !important
 }
 
-/* cabeçalho alternativo 
+/* cabeçalho alternativo */
 
 .app-header {
-    background: rgba(28, 31, 37, 0.59);
-}*/
+    background: rgba(28, 31, 37, 0.59); !important;
+}
 
-/* cabeçalho alternativo inicio*/
-/* Text settings */ 
+/* cabeçalho alternativo inicio
+/* Text settings 
 #room-host, #now-playing-dj{color: #808691 !important; }
 #room-bar *, 
 #now-playing-bar *{font-weight: lighter !important; } 
@@ -327,4 +327,4 @@ transition: opacity 0.25s !important; transition-delay: 0.25s !important; }
 box-shadow: 0px -19px 0px 6px rgba(28, 31, 37, 0.50), 0px 18px 0px 6px rgba(28, 31, 37, 0.50) !important; } 
 /* Disappearing elapsing */ .elapsing{opacity: 0.0 !important; transition: opacity 1.0s !important; } 
 /* Disappear */ #now-playing-bar > :not(#history-button) :not(#rs-skip-button) i, .dark-label{display: none !important; }
-#now-playing-time i {display:none !important;}
+#now-playing-time i {display:none !important;} */
