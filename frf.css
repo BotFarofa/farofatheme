@@ -288,3 +288,20 @@
 body {
     background-size: 100% auto !important background-attachment: fixed 0px 0px !important
 }
+
+/* cabeçalho alternativo */
+/* Text settings */ 
+#room-host, #now-playing-dj{color: #808691 !important; }
+#room-bar *, 
+#now-playing-bar *{font-weight: lighter !important; } 
+#room-bar span, 
+#now-playing-bar span, 
+#now-playing-time span, 
+#volume span, 
+#rcs-time-elapsed{font-size: 20px !important; } 
+#room-bar:hover > #room-name, #room-bar > #room-host, #now-playing-bar:hover > #now-playing-media, 
+#now-playing-bar > #now-playing-dj{opacity: 0 !important; transition: opacity 0.25s !important; } 
+#room-bar > #room-name, #room-bar:hover > #room-host, #now-playing-bar > 
+#now-playing-media, #now-playing-bar:hover >
+#now-playing-dj{opacity: 1 !important; 
+transition: opacity 0.25s !important; transition-delay: 0.25s !important; } 
