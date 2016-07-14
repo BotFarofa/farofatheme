@@ -10,6 +10,39 @@
     height: 30px;
 }
 
+#room-name, #room-host {
+    left: 89px !important;
+    color: #fff !important;
+    font-weight: bold;
+    text-shadow: 2px 0px 11px, #dd00ff;
+    background: url(http://forum.ragezone.com/images/backround6.gif);
+}
+
+.dark-label {
+    color: #fff !important;
+    font-weight: null;
+    text-shadow: 2px 0px 11px, #dd00ff;
+    background: url();
+    
+}
+#dj-button {
+    background: rgba(34, 34, 36, 0.59);
+    border-radius: 8px;
+}
+#dj-button .left  {
+    background: #aa74ff !important;
+}
+#vote .top {
+    background: rgba(34, 34, 36, 0.4) !important;
+}
+
+#room .app-right {
+    background: linear-gradient(to right,rgba(0, 0, 0, 0.70) 0,rgba(0, 0, 0, 1) 100%);
+}
+.app-header {
+    background: rgba(28, 31, 37, 0.59);
+}
+/*
 #playback-container {
     background-image: url();
     background-position: center;
