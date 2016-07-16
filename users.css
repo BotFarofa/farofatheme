@@ -16,7 +16,7 @@
 
 #chat-messages .fromID-3817231 .badge-box i,
 #chat-messages  .id-3817231 .badge-box i {
-    background-image: url(http://31.media.tumblr.com/be6d6c864a4cc2c5c82581a7ae25dc38/tumblr_naunbzBMPF1tf79x0o1_500.gif);
+    background-image: url(https://66.media.tumblr.com/f9b63bad59fe38d5ab61895a7019c6be/tumblr_oabhw8v1XR1vzw5sko1_250.gif);
     background-size: cover;
     width: 30px;
     height: 30px;
@@ -115,4 +115,42 @@
     border: none;
     border-radius: 0;
     
+}
+
+#chat-messages .fromID-6643028 .badge-box i,
+#chat-messages  .id-6643028 .badge-box i {
+    background-image: url(http://cdn3.teen.com/wp-content/uploads/2016/06/demi-lovato-photoshoot-pucker-mint-green-nails.gif);
+    background-size: cover;
+    width: 41px;
+    height: 30px;
+    top: 0;
+    left: -10px;
+    border: none;
+    border-radius: 0;
+    
+}
+
+#chat-messages .fromID-3733860 .badge-box i,
+#chat-messages  .id-3733860 .badge-box i {
+    background-image: url(http://65.media.tumblr.com/e9d59d60cd9fe48c8966c763cb11f360/tumblr_inline_nqka8gtNLF1r25xgk_500.gif);
+    background-size: cover;
+    width: 41px;
+    height: 30px;
+    top: 0;
+    left: -10px;
+    border: none;
+    border-radius: 0;
+    
+}
+
+[data-cid^="3424833-"] .badge-box .bdg {
+    background-image: url("http://i.imgur.com/AqlZ8lD.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-3424833 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/AqlZ8lD.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
 }
